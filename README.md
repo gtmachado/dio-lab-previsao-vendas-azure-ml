@@ -23,8 +23,6 @@ Este projeto tem como objetivo criar um modelo de previsão de vendas utilizando
 4. Implante o modelo como um serviço web e configure os pontos de extremidade.
 
 ## Arquivos do Projeto:
-
-- `Previsao_de_Vendas.ipynb`: Notebook Jupyter com o código do modelo de previsão.
 - `endpoint_config.json`: Arquivo JSON contendo as configurações dos pontos de extremidade.
 
 ## Referências:
