@@ -1,0 +1,16 @@
+{
+  "name": "previsao-vendas-endpoint",
+  "type": "ACI",
+  "computeType": "ACI",
+  "description": "Endpoint para previsão de vendas",
+  "properties": {
+    "description": "Modelo de regressão para previsão de vendas desenvolvido no Azure ML",
+    "modelUri": "https://your-model-uri",
+    "serviceUri": "http://your-service-uri",
+    "appInsightsEnabled": true,
+    "sslEnabled": false,
+    "enableTokenAuth": false,
+    "tokenAuthEnabled": false,
+    "computeType": "ACI"
+  }
+}
